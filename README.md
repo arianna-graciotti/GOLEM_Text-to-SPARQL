@@ -6,7 +6,7 @@ Repository for "Natural Language Querying for Humanities Knowledge Graphs: A cas
 
 - **dataset**  
   Contains the _instantiated_data_ and _paraphrased_data_ datasets.
-- 
+  
 - **evaluation/results**  
   Contains evaluation data and processing outputs.
 
