@@ -8,10 +8,10 @@ GOLEM KG is available on its [public SPARQL endpoint](http://graph.golemlab.eu:8
 ## Contents
 
 - **dataset**  
-  Contains the _instantiated data_ and _paraphrased data_ datasets.
+  Contains the _template questions_, _instantiated questions_ and _paraphrased questions_ datasets.
   
 - **evaluation/results**  
-  Contains evaluation data and text-to-sparql processing outputs.
+  Contains the text-to-sparql processing output and evaluation data per each dataset.
 
 - **evaluation/error_analysis**  
   Contains error analysis data.
